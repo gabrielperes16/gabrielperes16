@@ -1,7 +1,9 @@
 <img align="center" alt="Rafa-HTML" height="200" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49"> 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&bg_color=00000000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=tokyonight)
 </div>
 
 Technologies I'm studying
