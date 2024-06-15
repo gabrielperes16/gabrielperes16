@@ -1,6 +1,8 @@
 <img align="center" alt="Rafa-HTML" height="200" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49"> 
-<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=35&duration=4500&pause=1000&color=0011DF&center=true&vCenter=true&random=true&width=635&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I+From+Brazil)](https://git.io/typing-svg)
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=tokyonight)
