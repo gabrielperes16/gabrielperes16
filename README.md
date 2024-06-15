@@ -30,4 +30,4 @@
 
 <img align="center"  height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49&section=footer">
 
-![snake gif](https://github.com/gabrielperes16/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gabrielperes16/gabrielperes16/blob/output/github-contribution-grid-snake.gif)
