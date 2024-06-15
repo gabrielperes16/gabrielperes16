@@ -1,13 +1,7 @@
 <img align="center" alt="Rafa-HTML" height="200" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7982a9&text=&fontAlignY=49"> 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=40&duration=4500&pause=1000&color=0011DF&center=true&vCenter=true&random=false&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I+From+Brazil)](https://git.io/typing-svg)
-
-![gabrielperes16's Stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![gabrielperes16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielperes16&theme=tokyonight&hide_border=false)
-
-![gabrielperes16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<img width="49%" height="195px" src="https://camo.githubusercontent.com/000306dac7d4dde0609bf84a354f0ec91f883eaa9405099d83b2fbf5c48fd7ff/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41466f6f74476f6c66392673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d3064383666322669636f6e5f636f6c6f723d30643836663226746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137" alt="gabrielperes16 github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gabrielperes16&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=0d86f2&amp;icon_color=0d86f2&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
 
 Technologies I'm studying
