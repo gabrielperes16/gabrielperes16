@@ -30,10 +30,12 @@
 
 <img align="center"  height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49&section=footer">
 
-<div align="center">
+
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielperes16/salesp07/output/github-contribution-grid-snake.svg" />
+
+  ![snake gif](https://github.com/gabrielperes16/gabrielperes16/blob/output/github-contribution-grid-snake.gif)
+
   
-  <br/><br/><br/>
-</div>
+
+
