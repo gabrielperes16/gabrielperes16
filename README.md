@@ -1,4 +1,4 @@
-<img align="center" alt="Rafa-HTML" height="49%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7982a9&text=&fontAlignY=49"> 
+<img align="center" alt="Rafa-HTML" height="200" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7982a9&text=&fontAlignY=49"> 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=40&duration=4500&pause=1000&color=0011DF&center=true&vCenter=true&random=false&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I+From+Brazil)](https://git.io/typing-svg)
@@ -22,3 +22,5 @@ Technologies I'm studying
   <a href="https://www.instagram.com/gabrielperes922/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-peres-96690b2a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img align="center"  height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7982a9&text=&fontAlignY=49&section=footer">
