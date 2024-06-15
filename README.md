@@ -29,8 +29,9 @@
   <a href="https://www.linkedin.com/in/gabriel-peres-96690b2a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 
 
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabrielperes16/gabrielperes16/blob/output/github-contribution-grid-snake.svg)
 
  
