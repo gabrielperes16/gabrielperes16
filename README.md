@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=680&size=40&duration=4500&pause=1000&color=0011DF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+18+years+old;I+From+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=680&size=40&duration=4500&pause=1000&color=0011DF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I+From+Brazil)](https://git.io/typing-svg)
 ![gabrielperes16's Stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![gabrielperes16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielperes16&theme=tokyonight&hide_border=false)
 
