@@ -10,8 +10,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=tokyonight&margin_left=10%)
+
 </div>
+
 <br><br><br><br>
+
+<div align="center">
+  <a href="https://www.codewars.com/users/player_hirotaka">
+    <img src="https://www.codewars.com/users/player_hirotaka/badges/small" alt="Codewars badge">
+  </a>
+</div>
+
 
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝗺 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴
 
