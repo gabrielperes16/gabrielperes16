@@ -13,21 +13,19 @@
 
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 <div align="center">
   <a href="https://www.codewars.com/users/player_hirotaka">
     <img src="https://www.codewars.com/users/player_hirotaka/badges/small" alt="Codewars badge">
   </a>
 </div>
-
+<br><br>
 
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝗺 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
-  <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
   ##
