@@ -25,8 +25,14 @@
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝗺 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴
 
 <div style="display: inline_block">
+
   <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
+  
 </div>
+<br>
+𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:
+<br>
+<img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 
   ##
   <br>
