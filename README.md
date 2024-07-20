@@ -34,6 +34,10 @@
 <br>
 <img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
   ##
   <br>
 <div align='center'> 
