@@ -45,6 +45,4 @@
 <a href = "https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-peres-96690b2a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img align="center"  height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49&section=footer">
-
 <br><br>
