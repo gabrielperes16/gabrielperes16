@@ -13,7 +13,7 @@
 
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <a href="https://www.codewars.com/users/player_hirotaka">
@@ -34,7 +34,7 @@
 <br>
 <img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 
-<br><br>
+<br>
 
   ##
   <br>
