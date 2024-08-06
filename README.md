@@ -35,6 +35,12 @@
 <img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 
 <br>
+𝙎𝙂𝘽𝘿
+<br>
+<br>
+
+<img align="center" alt="Flask" height="80" width="100" src="https://cdn-icons-png.flaticon.com/256/274/274439.png" />
+
 
   ##
   <br>
