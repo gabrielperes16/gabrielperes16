@@ -13,7 +13,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://www.codewars.com/users/player_hirotaka">
