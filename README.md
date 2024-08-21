@@ -30,16 +30,7 @@
   <img align="center" alt="Flask" height="70" width="80" src="https://img.icons8.com/?size=100&id=HMAIkKPbzZIL&format=png&color=FFFFFF">
 
 </div>
-
-
 <br>
-𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:
-<br>
-<img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
-
-<br>
-
-  ##
   <br>
 <div align='center'> 
   <a href="https://www.instagram.com/gabrielperes922/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
