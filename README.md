@@ -1,5 +1,5 @@
-<img align="center" alt="Rafa-HTML" height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=4B0082&textBg=false"> 
-
+<img align="center" alt="Rafa-HTML" height="150" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=4B0082&textBg=false"> 
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=45&duration=4500&pause=1000&color=0011DF&margin_left=200&center=true&vCenter=true&random=False&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I'm+From+Brazil" alt="Typing SVG" />
 </p>
