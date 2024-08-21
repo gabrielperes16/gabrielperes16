@@ -1,4 +1,4 @@
-<img align="center" alt="Rafa-HTML" height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1e90ff&text=&fontAlignY=49"> 
+<img align="center" alt="Rafa-HTML" height="180" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=4B0082&textBg=false"> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause&weight=680&size=45&duration=4500&pause=1000&color=0011DF&margin_left=200&center=true&vCenter=true&random=False&width=720&lines=Hello%2C+My+Name+is+Gabriel+Peres;I'am+16+years+old;I'm+From+Brazil" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <div align="center">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=tokyonight&margin_left=10%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielperes16&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielperes16&layout=compact&theme=radical&margin_left=10%)
 
 </div>
 
