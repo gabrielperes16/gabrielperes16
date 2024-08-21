@@ -20,14 +20,14 @@
     <img src="https://www.codewars.com/users/player_hirotaka/badges/small" alt="Codewars badge">
   </a>
 </div>
-<br><br>
+<br>
 
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜'𝗺 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex">
   
   <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-  <img align="center" alt="Flask" height="70" width="80" src="https://img.icons8.com/?size=100&id=HMAIkKPbzZIL&format=png&color=FFFFFF">
+  <img align="center" alt="SQL" height="30" width="100" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
 <br>
